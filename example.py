@@ -11,7 +11,7 @@ def test_add():
     assert add(0.1, 0.2) == approx(0.3)
 
 def subtract(a, b):
-    return a + b  # <--- fix this in step 8
+    return a - b  # <--- fix this in step 8
 
 # uncomment the following test in step 5
 def test_subtract():
