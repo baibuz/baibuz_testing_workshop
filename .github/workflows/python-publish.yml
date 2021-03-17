@@ -19,7 +19,6 @@ jobs:
     - name: Test with pytest
       run: |
         pytest example.py
-      -
       
       
       with:
